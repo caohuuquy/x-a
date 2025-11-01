@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Inventory Management",
+  "description": "A dynamic and responsive inventory management interface built with React, TypeScript, and Tailwind CSS, allowing users to list, view, and edit inventory records with real-time calculations and interactive components.",
+  "requestFramePermissions": []
+}
